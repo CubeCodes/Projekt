@@ -1,6 +1,6 @@
 # Projekt
 
-<strong>Workflow pro závěrečný projekt</strong>
+<h2>Workflow pro závěrečný projekt</h2>
 
 Září- Základní setup hráče, low poly modely<br>
 Říjen- Pokročilé ovládání postavy hráčem<br>
