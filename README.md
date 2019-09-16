@@ -7,3 +7,11 @@ Září- Základní setup hráče, low poly modely<br>
 Listopad- high poly modely, základní audio setup<br>
 Prosinec- Dokončení dokumentace<br>
 Leden- Konečné úpravy a závěrečné odladění<br>
+
+<h2>Odkazy</h2>
+UE4 dokumentace<br>
+https://docs.unrealengine.com/en-US/Programming/index.html<br>
+C++ reference<br>
+http://www.cplusplus.com/<br>
+Visual Studio dokumentace<br>
+https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
