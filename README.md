@@ -14,4 +14,6 @@ https://docs.unrealengine.com/en-US/Programming/index.html<br>
 C++ reference<br>
 http://www.cplusplus.com/<br>
 Visual Studio dokumentace<br>
-https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
+https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019<br>
+Youtube<br>
+Google
