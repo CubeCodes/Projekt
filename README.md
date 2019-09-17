@@ -17,3 +17,6 @@ Visual Studio dokumentace<br>
 https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019<br>
 Youtube<br>
 Google
+
+<h2>Ukázky</h2>
+https://www.artstation.com/artwork/A9aJ9V
