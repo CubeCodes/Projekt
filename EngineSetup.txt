@@ -1,0 +1,9 @@
+﻿1. Jdete na stranku
+	https://www.unrealengine.com/en-US/
+2. Vytvorte si ucet Epic games (je potreba se prihlasit pro stazeni UE4)
+3. Bezte do nastaveni uctu → propojene ucty (connected accounts)
+4. Pripojte svůj Github ucet 
+5. Do terminalu zadejte prikaz
+	git clone https://github.com/EpicGames/UnrealEngine-(branch_name).git
+6. Spustit engine a prihlasit se
+7. Najit slozku s projektem (mela by se zobrazit automaticky) a otevrit
