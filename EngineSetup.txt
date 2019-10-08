@@ -23,4 +23,4 @@
 2. Prihlaste se/vytvorte ucte Epic games (je potreba se prihlasit pro stazeni UE4)
 3. Stahnete si Epic games launcher a prihlaste se
 4. V zalozce Unreal Engine naleznete tlacitko download s verzi enginu, kterou chcete stahnout a potvrdte
-7. Stpuste engine,po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
+5. Stpuste engine,po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
