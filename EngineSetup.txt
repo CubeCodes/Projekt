@@ -4,10 +4,17 @@
 2. Vytvorte si ucet Epic games (je potreba se prihlasit pro stazeni UE4)
 3. Bezte do nastaveni uctu → propojene ucty (connected accounts)
 4. Pripojte svůj Github ucet 
-5. Do terminalu zadejte prikaz
-	git clone https://github.com/EpicGames/UnrealEngine-(branch_name).git
-6. Spustit engine a prihlasit se
-7. Najdete slozku s projektem (mela by se zobrazit automaticky) a otevrite ji
+5. Na email vaseho GitHub uctu bude zaslano potvrzeni o propojeni uctu, kliknete na link a potvrdte
+6. nyni muzete na https://github.com/Epicgames stahnout posledni verzi UnrealEngine
+(6.)klonovat git clone https://github.com/EpicGames/UnrealEngine.git
+	# or if you are using ssh authentication: 
+	     git clone git@github.com:EpicGames/UnrealEngine.git
+7. Zadejte prikaz cd UnrealEngine/
+8. Prikaz ./Setup.sh
+9. Pikaz ./GenerateProjectFiles.sh
+10. Pikaz make (pokud se objevi ERROR zadejte sudo apt install clang-6.0 pote opet prikaz make)
+11. ./Engine/Binaries/Linux/UE4Editor
+7. Po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
 
 
 --------------WINDOWS-------------------
