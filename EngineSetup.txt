@@ -16,6 +16,8 @@
 11. ./Engine/Binaries/Linux/UE4Editor
 12. Po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
 
+POZN. proces stahovani i instalovani muze trvat nekolik desitek minut
+
 
 --------------WINDOWS-------------------
 1. Jdete na stranku
