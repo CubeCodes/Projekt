@@ -14,7 +14,7 @@
 9. Pikaz ./GenerateProjectFiles.sh
 10. Pikaz make (pokud se objevi ERROR zadejte sudo apt install clang-6.0 pote opet prikaz make)
 11. ./Engine/Binaries/Linux/UE4Editor
-7. Po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
+12. Po nacteni v novem okne kliknete na zalozku open poject a v adresari projektu vyberte soubor .uproject
 
 
 --------------WINDOWS-------------------
